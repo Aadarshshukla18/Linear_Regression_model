@@ -84,4 +84,4 @@ This project demonstrates how advertising channels influence sales. Among all fe
 ## 📌 Author
 
 Aadarsh Shukla  
-Aspiring AI/ML Engineer 🚀
+(**Data Scientist**) 🚀
